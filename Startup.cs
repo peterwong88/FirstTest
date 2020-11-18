@@ -21,6 +21,7 @@ namespace ClassroomApp
             Configuration = configuration;
         }
 
+//comments
         public IConfiguration Configuration { get; }
 
        
